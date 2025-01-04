@@ -1,3 +1,3 @@
-Examples of survey data cleaning.
+Examples of survey data cleaning and analysis.
 
-Survey responses are not included for confidentiality reasons.
+Survey responses and weights are not included for confidentiality reasons.
